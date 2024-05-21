@@ -1,0 +1,4 @@
+Hello World!
+Ini adalah contoh file
+Yang berisi beberapa kata
+Beberapa kata diulang
